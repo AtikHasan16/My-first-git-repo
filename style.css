@@ -3,7 +3,9 @@ h1 {
     text-align: center;
 }
 
-p{
+p {
     background-color: gray;
     text-align: center;
+    font-size: 15px;
+    color: antiquewhite;
 }
