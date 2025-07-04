@@ -1,6 +1,7 @@
 h1 {
     color: burlywood;
     text-align: center;
+    background-color: black;
 }
 
 p {
@@ -8,4 +9,8 @@ p {
     text-align: center;
     font-size: 15px;
     color: antiquewhite;
+}
+img{
+    display: block;
+    margin: auto;
 }
